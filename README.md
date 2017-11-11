@@ -1,1 +1,1 @@
-- `Active-Directory` :white_chek_mark:
+- `Active-Directory`
